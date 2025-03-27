@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : GitHub
 - 👯 I’m not currently looking to collaborate yet, but will be looking to shortly.
 - 🤔 I’m looking for help with : GitHub, I'm still a newbie
-- 😄 Pronouns : He/Him
+-  Pronouns : He/Him
 
 
 <!--
