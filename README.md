@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 - 🔭 I’m currently working on : The Rockspray HOA's Website
 - 🌱 I’m currently learning : GitHub
