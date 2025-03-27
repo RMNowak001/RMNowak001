@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- 🔭 I’m currently working on : The Rockspray HOA's Website
+- 🔭 I’m currently working on : An HOA's Website
 - 🌱 I’m currently learning : GitHub
 - 👯 I’m not currently looking to collaborate yet
 - 🤔 I’m looking for help with : GitHub, I'm still a newbie
